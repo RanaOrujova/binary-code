@@ -30,5 +30,4 @@ while n > 0:
         n = n // basis
         num.append(k)
 
-print(binary[::-1])
 print(num[::-1])
